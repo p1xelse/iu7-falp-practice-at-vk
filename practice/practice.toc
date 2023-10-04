@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{3}{table.caption.1}%
+\contentsline {section}{\numberline {1}Характеристика предприятия}{4}{section.1}%
+\contentsline {section}{\numberline {2}Описание выполнения задач}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Экспериментальный прокси сервера}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Интерпретация результатов эксперимента}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Реализация инструментария для аналитики сущностей <<pad>> инвентаря площадок}{6}{subsection.2.3}%
+\contentsline {section}{Заключение}{8}{figure.caption.3}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{8}{Item.6}%
